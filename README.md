@@ -30,9 +30,9 @@ I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer 
 
 <a href="https://github.com/Mainul21"><img src="https://github-readme-stats.vercel.app/api?username=Mainul21&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="Mainul's GitHub stats" width="100%" /></a>
 
-<a href="http://www.github.com/Fahim-M-Siam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahim-M-Siam&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" /></a>
+<a href="http://www.github.com/Mainul21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mainul21&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" /></a>
 
-<a href="https://github.com/Fahim-M-Siam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-M-Siam&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /></a>
+<a href="https://github.com/Mainul21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainul21&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /></a>
 
 # ----------------------------- Latest Projects-----------------------------
 
