@@ -1,16 +1,16 @@
 ![](https://i.ibb.co/qMDn9WN/Github-background.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Fahim Khurshid
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Md. Mainul Hossain Chisty
 ===========================================================================================================================================
 
-MERN Stack Developer | Full Stack Developer
+MERN Stack Developer | Computer Science Student
 -------------------------------------------
 
 I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer Science and Engineering at BRAC University in Bangladesh. In my three years of coding life, I've focused on problem-solving in Python and crafting interactive dynamic web applications using MERN technology. Programming is not just a skill for me; it's my passion. I always find joy in learning and exploring new technologies. Being self-motivated has been a key factor in my journey, pushing me to achieve my goals and overcome challenges. I currently reside in Bangladesh and currently working in interactive dynamic web applications with MERN Technologies, I bring a unique perspective to my work. Personally, I consider myself diligent, curious, and always maintaining a positive attitude. I take on challenges with enthusiasm and make it a point to stay updated with the latest industry trends. As I continue my academic pursuits and professional development, my dedication to programming and commitment to excellence will undoubtedly shape a successful career in the dynamic field of technology.
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [fahim.mohammad.siam@gmail.com](mailto:fahim.mohammad.siam@gmail.com)
-* 🧠  I'm learning NextJS
+* ✉️  You can contact me at [mainul.hossain.chisty@gmail.com](mailto:mainul.hossain.chisty@gmail.com)
+* 🧠  I'm learning ExpressJs and Competitive programming with Python
 
 ### Skills
 
