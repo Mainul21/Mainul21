@@ -63,4 +63,31 @@ I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer 
 
 # ----------------------------- Latest Projects-----------------------------
 
-**TO BE ADDED**
+# Kings-State (Property Dealing Website)
+Live Link : https://kings-estate.web.app/
+
+# Features of Project
+- Frontend done
+- Backend (Work In Progress)
+- More details will be uploaded soon
+
+-------------------------------------------------------------------------------------------------------------
+# Snake Game 
+
+# Description
+- This game is made using python and OpenGL library as an academic project
+- Our classic snake game comes with easy and hard mode to choose from.
+- The rest is self explanatory
+
+-------------------------------------------------------------------------------------------------------------
+# Book Review (Book Reviewing Website)
+
+# Features of Project
+- Authentication system
+- Book Details, read and wishlist system
+# Future ideas to be added
+- Reader review system
+- Buy and sell pages
+- Admin and User dashborads
+
+
