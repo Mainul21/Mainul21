@@ -44,6 +44,11 @@ I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
 </a>
 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+</a>
+
+
 </p>
 
 
