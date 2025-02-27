@@ -69,12 +69,13 @@ I am a MERN Stack Developer currently pursuing my Bachelor's degree in Computer 
 </a>
 
 <a href="http://www.github.com/Mainul21">
-  <img src="https://streak-stats.demolab.com/?user=Mainul21&theme=dark" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Mainul21&theme=dark" width="100%" />
 </a>
 
 <a href="https://github.com/Mainul21">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainul21&layout=compact&theme=dark" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainul21&langs_count=8&layout=compact&theme=dark" alt="Top Languages" width="100%" />
 </a>
+
 
 
 # ----------------------------- Latest Projects-----------------------------
